@@ -1,0 +1,21 @@
+############
+## Windows
+############
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+#############
+## IntelliJ
+#############
+.idea
+out/
+*.ipr
+*.iws
+*.iml
+classes
+lib
+
